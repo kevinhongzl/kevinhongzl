@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Kevin!
 <img src='https://github.com/images/mona-whisper.gif' align='right'>
-<br>
 I'm a recent Master's graduate from National Taiwan University, now based in Taipei, Taiwan! I’m a Data Scientist and Machine Learning Engineer passionate about coding, exploring new technologies, and contributing to open-source projects related to data science, machine learning, and deep learning.
+
 
 <br><br>
 
