@@ -36,8 +36,8 @@ Currently looking for opportunities as a Data Scientist or Machine Learning Engi
 * Always ready for new challenges, both in tech and in the ring!
 
 ### 📫 Get in Touch
-* Email: [Your Email Here]
-* LinkedIn: [Your LinkedIn Here]
-* GitHub: [Your GitHub Profile Link Here]
-  
+[![Linkedin Badge](https://img.shields.io/badge/-洪振倫-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/洪振倫/)](https://www.linkedin.com/in/%E6%8C%AF%E5%80%AB-%E6%B4%AA-812714161)
+[![Gmail Badge](https://img.shields.io/badge/-zhenlun.hong01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhenlun.hong01@gmail.com)](mailto:zhenlun.hong01@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kevinkevin556-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/kevinkevin556/)](https://github.com/kevinkevin556) 
+
 
