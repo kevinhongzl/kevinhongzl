@@ -3,7 +3,7 @@
 I'm a recent Master's graduate from National Taiwan University, now based in Taipei, Taiwan! 
 I’m a Data Scientist and Machine Learning Engineer passionate about coding, exploring new technologies, and contributing to open-source projects related to data science, machine learning, and deep learning.
 
-<img src='https://github-readme-stats.vercel.app/api?username=kevinkevin556&hide=issues&hide_border=true' align='left' height=145> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkevin556&layout=compact&size_weight=0.1&count_weight=2&hide_border=true' height=145>
+<img src='https://github-readme-stats.vercel.app/api?username=kevinhongzl&hide=issues&hide_border=true' align='left' height=145> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhongzl&layout=compact&size_weight=0.1&count_weight=2&hide_border=true' height=145>
 
 ### 🔭 What I'm Currently Working On
 * Expanding my knowledge in Python, R, and Rust
@@ -38,6 +38,6 @@ Currently looking for opportunities as a Data Scientist or Machine Learning Engi
 ### 📫 Get in Touch
 [![Linkedin Badge](https://img.shields.io/badge/-洪振倫-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/洪振倫/)](https://www.linkedin.com/in/%E6%8C%AF%E5%80%AB-%E6%B4%AA-812714161)
 [![Gmail Badge](https://img.shields.io/badge/-zhenlun.hong01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhenlun.hong01@gmail.com)](mailto:zhenlun.hong01@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-kevinkevin556-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/kevinkevin556/)](https://github.com/kevinkevin556) 
+[![Linkedin Badge](https://img.shields.io/badge/-kevinhongzl-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/kevinhongzl/)](https://github.com/kevinhongzl) 
 
 
